@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 683.25 197.7">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #040949;
+        stroke-width: 0px;
+      }
+    </style>
+    <symbol id="AnswerSymbol" viewBox="0 0 683.25 197.7">
+      <g>
+        <rect class="cls-1" x="98.78" y=".63" width="486" height="197"/>
+        <polygon class="cls-1" points="197.57 98.42 98.28 197.7 0 99.42 99.28 .13 197.57 98.42"/>
+        <polygon class="cls-1" points="683.25 98.28 583.97 197.57 485.68 99.28 584.97 0 683.25 98.28"/>
+      </g>
+    </symbol>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <use width="683.25" height="197.7" xlink:href="#AnswerSymbol"/>
+  </g>
+</svg>
